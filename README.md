@@ -91,27 +91,27 @@ All the comments and the explaination of the Methods and the Classes has been ad
 
 ## _Demo_
 - Getting Dimensions (Success):
-- 
+
 ![image](https://user-images.githubusercontent.com/74715900/219932523-20ae7da2-755a-4472-afe8-548d8bf1cb36.png)
 
 - Getting Dimensions (Unsuccessful):
-- 
+
 ![image](https://user-images.githubusercontent.com/74715900/219932527-1611e1b4-148d-4d8a-9d0b-002423c90d1f.png)
 
 - Getting Elements of Matrix, A and Vector B:
-- 
+
 ![image](https://user-images.githubusercontent.com/74715900/219932530-5dbc9617-ab83-42dd-837d-3af129e4c4c5.png)
 
 - Checking Diagonal Dominance (Diagonally Dominant):
-- 
+
 ![image](https://user-images.githubusercontent.com/74715900/219932534-d3d49e78-fc30-4023-9b22-2bd1e5ceacbc.png)
 
 - Checking Diagonal Dominance (Not Diagonally Dominant & Dominance is Possible):
-- 
+
 ![image](https://user-images.githubusercontent.com/74715900/219932536-bd1c6029-94a2-4878-954f-0c3e960ae1e3.png)
 
 - Checking Diagonal Dominance (Not Diagonally Dominant & Dominance is Impossible):
-- 
+
 ![image](https://user-images.githubusercontent.com/74715900/219932541-dc1a5aca-8c5d-49c2-8eb1-4904f95dbac6.png)
 
 
