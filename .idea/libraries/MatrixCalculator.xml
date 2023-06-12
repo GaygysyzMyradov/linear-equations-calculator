@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MatrixCalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/MatrixCalculator_jar/MatrixCalculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
